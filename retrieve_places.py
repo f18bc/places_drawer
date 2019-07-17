@@ -19,7 +19,8 @@ f = open("places.txt", "w+")
 
 for tag in tags:
     p = tag.text.strip()
-    p = re.sub('[^a-zA-Z ]+', '', p)
+    #Change Names to Characters: p = re.sub('[^a-zA-Z ]+', '', p)
+    #Replace: p = p.replace("", "")
     f.write(p + '\n')
 f.close()
 
