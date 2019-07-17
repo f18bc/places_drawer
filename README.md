@@ -9,3 +9,6 @@ Required modules:
 2.geocoder
     Installation: pip install geocoder
     url: https://geocoder.readthedocs.io/
+
+
+Environments: macOS Mojave 10.14.5
