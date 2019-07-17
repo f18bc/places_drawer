@@ -15,4 +15,4 @@ for line in f.readlines():
         print(line)
         continue
 
-gmap1.draw("where1.html")
+gmap1.draw("places.html")
