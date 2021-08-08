@@ -1,8 +1,11 @@
 # python-travel_plan-map_drawer
 A python script to pin places on maps to help to plan your travel.
+
 Please create a txt file named 'places.txt' and put your places in it in the same directory.
+
 This script uses OpenStreetMap API. And it can be improved using Google Map API (paid).
 
+# Requirements
 Required modules:
 
 1.gmplot:
